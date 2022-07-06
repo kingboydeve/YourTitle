@@ -14,7 +14,3 @@
 :black_small_square:**Go To**: textures/ui
 
 :black_small_square:**Replace** your custom title Instead *title.png* file
-
-# Your Title Image Needs:
-
-:black_small_square:**Dimensions**: 1280x249
