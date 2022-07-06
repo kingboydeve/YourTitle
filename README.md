@@ -9,4 +9,6 @@
 
 :black_small_square:**Change** Texture File **Suffix** From *.mcpack* To *.zip
 
-:black_small_square:**Extract** *zip* file by [**MI Files**](https://play.google.com/store/apps/details?id=com.mi.android.globalFileexplorer)
+:black_small_square:**Extract** *zip* file by [**MI Files**](https://play.google.com/store/apps/details?id=com.mi.android.globalFileexplorer) or [**RAR**](https://play.google.com/store/apps/details?id=com.rarlab.rar) .
+
+:black_small_square:**Go To**:
