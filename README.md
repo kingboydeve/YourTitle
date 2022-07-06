@@ -14,3 +14,9 @@
 :black_small_square:**Go To**: textures/ui
 
 :black_small_square:**Replace** your custom title Instead *title.png* file
+
+# Download:
+
+:black_small_square:From GitHub
+
+:black_small_square:From **McpeDL** *creating...*
