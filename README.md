@@ -15,6 +15,10 @@
 
 :black_small_square:**Replace** your custom title Instead *title.png* file
 
+
+
+**Video**:
+![TutorialVideo](https://raw.githubusercontent.com/kingboydeve/kingboydeve/main/%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B7%DB%B0%DB%B7_%DB%B1%DB%B4%DB%B0%DB%B3%DB%B0%DB%B2.jpg)
 # Download:
 
 :black_small_square:From GitHub
