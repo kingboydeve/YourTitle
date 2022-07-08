@@ -21,6 +21,6 @@
 ![TutorialVideo](https://raw.githubusercontent.com/kingboydeve/kingboydeve/main/%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B7%DB%B0%DB%B7_%DB%B1%DB%B4%DB%B0%DB%B3%DB%B0%DB%B2.jpg)
 # Download:
 
-:black_small_square:From GitHub
+:black_small_square:From [**GitHub**](https://github.com/kingboydeve/YourTitle/releases/download/Beta/YourTitle-KingBoy.mcpack)
 
 :black_small_square:From **McpeDL** *creating...*
