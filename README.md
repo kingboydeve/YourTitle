@@ -22,6 +22,6 @@
 # Download:
 
 
-:black_small_square:From [**GitHub**](https://github.com/kingboydeve/YourTitle/releases/download/Beta/YourTitle-KingBoy.mcpack)
+:black_small_square:From [**GitHub**](https://github.com/kingboydeve/YourTitle/releases/download/untagged-2af82fee7cd3568314aa/YourTitle1.1.mcpack)
 
 :black_small_square:From **McpeDL** *creating...*
